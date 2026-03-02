@@ -1,4 +1,4 @@
-<h1 align="center">Pavnoor Singh</h1>
+<h1 align="center">Pavnoor Singh Sra</h1>
 <p align="center">
   React Developer (Web + Mobile) • Computer Programming Student • Ontario, Canada
 </p>
