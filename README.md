@@ -31,8 +31,8 @@
 - **Weather App** — https://mycityps.vercel.app
 
 ## 📫 Contact
-- Email: your-email-here
-- LinkedIn: your-link-here
+- Email: noorsra23@gmail.com
+- LinkedIn: <a href = "https://www.linkedin.com/in/pavnoorsra/">
 
 ---
 
