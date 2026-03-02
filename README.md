@@ -32,7 +32,7 @@
 
 ## 📫 Contact
 - Email: noorsra23@gmail.com
-- LinkedIn: <a href = "https://www.linkedin.com/in/pavnoorsra/">
+- LinkedIn: https://www.linkedin.com/in/pavnoorsra/
 
 ---
 
