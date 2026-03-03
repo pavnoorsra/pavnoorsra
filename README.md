@@ -101,7 +101,7 @@ Live: https://mycityps.vercel.app
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavnoorsra&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavnoorsra&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavnoorsra&layout=compact&theme=transparent" height="160"/>
 </p>
 
