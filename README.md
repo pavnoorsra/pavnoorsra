@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link-here.png" />
+  <img src="https://raw.githubusercontent.com/pavnoorsra/pavnoorsra/main/banner.png" />
 </p>
 
 <h1 align="center">Pavnoor Singh Sra</h1>
